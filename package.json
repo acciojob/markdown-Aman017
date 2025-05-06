@@ -19,6 +19,7 @@
     "marked": "^4.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-markdown": "^6.0.3",
     "style-loader": "^1.2.1",
     "webpack-cli": "^3.3.12"
   },
